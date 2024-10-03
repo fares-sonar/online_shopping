@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css">
+  <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  <title>Document</title>
+</head>
+<body>
+
+  <header>
+    <a href="./index.html" class="logo">online shopping</a>
+    <div class="navigation">
+      <a href="./login.html" class="btnLogin_popup">Login</a>
+      <a href="./register.html" class="btnLogin_popup">Register</a>
+    </div>
+  </header>
+  <section class="wrapper">
+    <div class="form-box ">
+      <h2>Register</h2>
+      <form action="#">
+        <div class="input-box">
+          <span class="icon"><i class="fa-solid fa-user"></i></span>
+          <input type="text" id="user-name" name="userName" required />
+          <label for="userName">User Name</label>
+        </div>
+        <div class="input-box">
+          <span class="icon"><i class="fa-solid fa-envelope"></i></span>
+          <input type="email"  id="email" name="email" required />
+          <label for="email">Email</label>
+        </div>
+        <div class="input-box">
+          <span class="icon"><i class="fa-solid fa-lock"></i></span>
+          <input type="password" id="password" name="password" required />
+          <label for="">Password</label>
+        </div>
+        <button type="submit" class="sign-up">Sign Up</button>
+        <div class="login-register">
+          
+      </form>
+    </div>
+  </section>
+  
+  <script src="./js/register.js"></script>
+</body>
+</html>
