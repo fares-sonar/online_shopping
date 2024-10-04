@@ -15,7 +15,7 @@ if (localStorage.getItem("userName")) {
 logOut.addEventListener("click", ()=>{
   localStorage.clear();
   setTimeout(()=>{
-    window.location = '../login.html'
+    window.location = './login.html'
   })
 })
 ///////////////////////////////////////

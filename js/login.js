@@ -17,7 +17,7 @@ btn.addEventListener("click", (e) => {
       getPassword.trim() === password.value.trim()
     ) {
       setTimeout(() => {
-        window.location = "../index.html";
+        window.location = "./index.html";
       }, 1000);
     } else {
       alert("Email or password is not valid");

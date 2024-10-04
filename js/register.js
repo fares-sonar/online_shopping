@@ -13,7 +13,7 @@ btn.addEventListener("click", (e) => {
     localStorage.setItem("password", password.value);
 
     setTimeout(() => {
-      window.location = "../login.html";
+      window.location = "./login.html";
     }, 1000);
   }
 });

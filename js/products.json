@@ -3,127 +3,127 @@
     "id": 1,
     "name": "Rolex Submariner Date ",
     "price":200,
-    "image": "../images/Rolex Submariner Date Steel and Oysterflex Strap.G03.watermarked.2k.png"
+    "image": "./images/watch-1.png"
   },
   {
     "id": 2,
     "name": "Rolex Cellini Dual Time",
     "price":350,
-    "image": "../images/Rolex Cellini Dual Time White Dial Open and Closed.G03.watermarked.2k.png"
+    "image": "./images/watch-1.png"
   },
   {
     "id": 3,
     "name": "Rolex Submariner Date ",
     "price":250,
-    "image": "../images/Rolex Submariner Date Steel and Oysterflex Strap.G03.watermarked.2k.png"
+    "image": "./images/watch-3.png"
   },
   {
     "id":4,
     "name": "IWC Ingenieur Automatic",
     "price":800,
-    "image": "../images/IWC Ingenieur Automatic Steel.G03.watermarked.2k.png"
+    "image": "./images/watch-4.png"
   },
   {
     "id": 5,
     "name": "Omega Speedmaster.G03",
     "price":400,
-    "image": "../images/Omega Speedmaster.G03.watermarked.2k.png"
+    "image": "./images/watch-5.png"
   },
   {
     "id": 6,
     "name": "Breitling Watch.G03",
     "price":599,
-    "image": "../images/Breitling Watch.G03.watermarked.2k.png"
+    "image": "./images/watch-6.png"
   },
   {
     "id": 7,
     "name": "Rolex Submariner Date 2",
     "price":786,
-    "image": "../images/Rolex Submariner Date 2 Black Dial.G03.watermarked.2k.png"
+    "image": "./images/watch-7.png"
   },
   {
     "id": 8,
     "name": "Men's Wrist Watch.G03",
     "price":497,
-    "image": "../images/Men's Wrist Watch.G03.watermarked.2k.png"
+    "image": "./images/watch-8.png"
   },
   {
     "id": 9,
     "name": "Skeleton Watch.G03",
     "price":367,
-    "image": "../images/Skeleton Watch.G03.watermarked.2k.png"
+    "image": "./images/watch-9.png"
   },
   {
     "id": 10,
     "name": "Aviator Sunglasses.G03",
     "price":749,
-    "image": "../images/Aviator Sunglasses.G03.watermarked.2k.png"
+    "image": "./images/sunglasses-1.png"
   },
   {
     "id": 11,
     "name": "Classic Sunglasses Gradient ",
     "price":886,
-    "image": "../images/Classic Sunglasses Gradient Light Blue.G03.watermarked.2k.png"
+    "image": "./images/sunglasse-2.png"
   },
   {
     "id": 12,
     "name": "Classic Sunglasses.G03",
     "price":583,
-    "image": "../images/Classic Sunglasses.G03.watermarked.2k.png"
+    "image": "./images/sunglasse-3.png"
   },
   {
     "id": 13,
     "name": "Horn-Rimmed Classic Reading",
     "price":470,
-    "image": "../images/Horn-Rimmed Classic Reading Glasses.G03.watermarked.2k.png"
+    "image": "./images/sunglasse-4.png"
   },
   {
     "id": 14,
     "name": "Sunglasses.G03.watermarked",
     "price":390,
-    "image": "../images/Aviator Sunglasses.G03.watermarked.2k.png"
+    "image": "./images/sunglasse-5.png"
   },
   {
     "id": 15,
     "name": "Sunglasses.G03.watermarked",
     "price":832,
-    "image": "../images/Sunglasses.G03.watermarked.2k.png"
+    "image": "./images/sunglasse-6.png"
   },
   {
     "id": 16,
-    "name": "Silver Ring",
+    "name": " Wedding Ring",
     "price":678,
-    "image": "../images/Silver Ring.G03.watermarked.2k.png"
+    "image": "./images/rang-1.png"
   },
   {
     "id": 17,
     "name": "Mens Wedding Ring",
     "price":796,
-    "image": "../images/Mens Wedding Ring.G11.2k.png"
+    "image": "./images/rang-2.png"
   },
   {
     "id": 18,
     "name": "Asscher Cut Diamond ring",
     "price":1023,
-    "image": "../images/Asscher Cut Diamond On Gold Ring.G03.watermarked.2k.png"
+    "image": "./images/rang-3.png"
   },
   {
     "id": 19,
     "name": "Asscher Cut Emerald Ring",
     "price":785,
-    "image": "../images/Asscher Cut Emerald Gold Ring.G03.watermarked.2k.png"
+    "image": "./images/rang-4.png"
   },
   {
     "id": 20,
-    "name": "Wedding Ring Platinum",
+    "name": "Silver Ring",
     "price":931,
-    "image": "../images/Wedding Ring Platinum.G03.watermarked.2k.png"
+    "image": "./images/ring-5.png"
   },
   {
     "id": 21,
-    "name": "Wedding Ring",
+    "name": " Wedding Ring Platinum",
     "price":677,
-    "image": "../images/Wedding Ring.G03.watermarked.2k.png"
+    "image": "./images/ring-6.png"
   }
 
 ]
